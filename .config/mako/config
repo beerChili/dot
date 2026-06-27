@@ -1,0 +1,21 @@
+font=IBM Plex Sans 12
+
+background-color=#222A2Fff
+text-color=#E4E9F1ff
+border-color=#525255ff
+progress-color=#007D79ff
+
+border-size=2
+border-radius=0
+padding=8
+margin=4
+width=350
+height=100
+
+default-timeout=5000
+ignore-timeout=0
+
+anchor=top-right
+
+icons=1
+max-visible=5

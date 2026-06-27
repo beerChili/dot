@@ -1,0 +1,14 @@
+[general]
+import = ["plex_theme.toml"]
+
+[window]
+padding = { x = 2, y = 2 }
+decorations_theme_variant = "Dark"
+
+[font]
+normal = { family = "IBM Plex Mono", style = "Text" }
+size = 15
+offset = { x = 0, y = 2 }
+
+[mouse]
+hide_when_typing = true
